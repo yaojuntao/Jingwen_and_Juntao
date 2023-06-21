@@ -1,5 +1,5 @@
 ## LX GALLERY
-
+<!--
 <img align="right" alt="PIC" src="https://github.com/0AIB/images/blob/master/images/gallery.png?raw=true"/>
 
 
@@ -21,4 +21,4 @@
 ![Github Repo Size](https://img.shields.io/github/repo-size/0AIB/Lx-Gallery?style=for-the-badge&color=aqua)
 
 
-
+-->
